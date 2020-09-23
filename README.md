@@ -1,2 +1,2 @@
 # Store-Front
-An electronic storefront  website for online consumer transactions. 
+Angular storefront app for online consumer transactions.
